@@ -1,0 +1,8 @@
+.footer .div-footer {
+  background-color: #74c69d;
+  display: flex;
+  flex-wrap: wrap;
+}
+.div-footer {
+  padding: 50px 130px;
+}
